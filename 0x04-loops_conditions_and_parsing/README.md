@@ -1,1 +1,1 @@
-complete tasks 0x04-loops_conditions_and_parsing
+completed tasks 0x04-loops_conditions_and_parsing
